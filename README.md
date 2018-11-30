@@ -1,5 +1,6 @@
-# boar-2018-code
-Building Online Apps with R - the 2018 version of the Course - EXAMPLE CODE
+# Building Online Apps with R - the 2018 version of the Course - EXAMPLE CODE.
+
+The course material, e.g., slides etc. can be found on https://github.com/mbannert/boar-2018
 
 ## Organization
 
