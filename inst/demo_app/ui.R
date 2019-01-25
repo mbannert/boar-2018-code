@@ -3,7 +3,7 @@ library(shiny)
 library(shinydashboard)
 
 dashboardPage(
-  dashboardHeader(title = "Empty App"),
+  dashboardHeader(title = "Demo App"),
   dashboardSidebar(),
   dashboardBody(
     fluidPage(
